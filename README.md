@@ -9,7 +9,7 @@ Former civil servant turned tech enthusiast with a passion for graphic design an
 *   🌍  I'm based in London, UK
 *   🖥️  See my portfolio at [MyPortfolio](http://sites.google.com/view/dajan-visuals/about)
 *   ✉️  You can contact me at [dajan.visuals@gmail.com](mailto:dajan.visuals@gmail.com)
-*   🚀  I'm currently working on [Transforming , Analysing and Visualising Data](http://https://sites.google.com/view/ akua-dajan)
+*   🚀  I'm currently working on [Transforming , Analysing and Visualising Data]
 *   🧠  I'm learning RStudio
 *   🤝  I'm open to collaborating on All Projects### Skills 
 <p align="left">
